@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Added specific to this repo
+old/
+template.ipynb
+data/noisy_dataset.csv
