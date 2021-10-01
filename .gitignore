@@ -109,3 +109,4 @@ template.ipynb
 data/noisy_dataset.csv
 assignments/Creating_cluster_datasets.ipynb
 assignments/clustering.csv
+.DS_Store
